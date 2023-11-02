@@ -1,0 +1,5 @@
+customtkinter
+pyttsx3
+Pillow
+tqdm
+CTkMessagebox
