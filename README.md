@@ -18,12 +18,12 @@ Text to Audio Converter is a simple Python application that converts text to aud
 ## Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/DevClube/audiocity.git
    ```
 ## Navigate to the project directory:
 
   ```bash
-  cd your-repo
+  cd audiocity
   ```
 
 ### Install dependencies:
@@ -41,11 +41,16 @@ Run the application:
   ```
 
 Follow the on-screen instructions to convert text to audio.
-
 ### Configuration
 
 Voice selection: Choose between "male" and "female" voices.
 Save location: Specify the directory where the generated audio file will be saved.
+
+
+### Screenshots
+![HomePage](HomePage.png)
+
+
 
 ### Contributing
 
