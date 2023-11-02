@@ -41,11 +41,16 @@ Run the application:
   ```
 
 Follow the on-screen instructions to convert text to audio.
-
 ### Configuration
 
 Voice selection: Choose between "male" and "female" voices.
 Save location: Specify the directory where the generated audio file will be saved.
+
+
+### Screenshots
+![HomePage](HomePage.png)
+
+
 
 ### Contributing
 
